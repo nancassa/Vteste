@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="864" height="862" viewBox="0 0 864 862">
+  <g id="svg_teste" data-name="svg teste" transform="translate(-414 -84)">
+    <g id="Retângulo_1" data-name="Retângulo 1" transform="translate(511 399)" fill="none" stroke="#000" stroke-width="18">
+      <rect width="671" height="547" stroke="none"/>
+      <rect x="9" y="9" width="653" height="529" fill="none"/>
+    </g>
+    <g id="Retângulo_3" data-name="Retângulo 3" transform="translate(970 652)" fill="none" stroke="#000" stroke-width="20">
+      <rect width="173" height="126" rx="15" stroke="none"/>
+      <rect x="10" y="10" width="153" height="106" rx="5" fill="none"/>
+    </g>
+    <g id="Retângulo_6" data-name="Retângulo 6" transform="translate(551 652)" fill="none" stroke="#000" stroke-width="21">
+      <rect width="173" height="126" rx="15" stroke="none"/>
+      <rect x="10.5" y="10.5" width="152" height="105" rx="4.5" fill="none"/>
+    </g>
+    <g id="Retângulo_5" data-name="Retângulo 5" transform="translate(749 578)" fill="none" stroke="#000" stroke-width="20">
+      <path d="M15,0H181a15,15,0,0,1,15,15V368a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V15A15,15,0,0,1,15,0Z" stroke="none"/>
+      <path d="M15,10H181a5,5,0,0,1,5,5V358a0,0,0,0,1,0,0H10a0,0,0,0,1,0,0V15A5,5,0,0,1,15,10Z" fill="none"/>
+    </g>
+    <g id="Polígono_1" data-name="Polígono 1" transform="translate(414 84)" fill="none">
+      <path d="M425.284,5.177a11,11,0,0,1,13.431,0L838.428,313.288A11,11,0,0,1,831.712,333H32.288a11,11,0,0,1-6.716-19.712Z" stroke="none"/>
+      <path d="M 431.9999389648438 27.77749633789062 L 64.57598876953125 311.0000305175781 L 799.4238891601562 311.0000305175781 L 431.9999389648438 27.77749633789062 M 431.9999694824219 2.888702392578125 C 434.368408203125 2.888702392578125 436.73681640625 3.651336669921875 438.7155151367188 5.176666259765625 L 838.427490234375 313.2879028320312 C 846.7418823242188 319.6968994140625 842.2095947265625 333.0000305175781 831.7118530273438 333.0000305175781 L 32.28802490234375 333.0000305175781 C 21.79022216796875 333.0000305175781 17.25811767578125 319.6968994140625 25.5723876953125 313.2879028320312 L 425.2843627929688 5.176666259765625 C 427.2631225585938 3.651336669921875 429.6315612792969 2.888702392578125 431.9999694824219 2.888702392578125 Z" stroke="none" fill="#000"/>
+    </g>
+  </g>
+</svg>
